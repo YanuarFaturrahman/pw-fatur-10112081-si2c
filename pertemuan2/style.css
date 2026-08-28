@@ -1,0 +1,33 @@
+h1 {
+    font-size: 32px;
+    color:tomato;
+}
+
+.title {
+    color: brown;
+}
+
+p {
+    color: blueviolet;
+    font-size: 18px;
+    font-family: arial;
+}
+
+#nama {
+    color: aquamarine;
+}
+
+section {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+.cv {
+    display: flex;
+}
+
+
+.content {
+    width: 70px;
+}
